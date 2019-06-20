@@ -2,13 +2,12 @@ p{
     color: #87bdff;
 }
 .box{
-    width: 22%;
+    width: 26%;
     background:orange ;
-    padding: 20px;
-    border: 10px solid;
+    padding: 23px;
     margin-left: 5px;
     float: left;
-    padding-bottom: 18%;
+    padding-bottom: 26%;
     border-radius: 12%;
 
     margin-top: 12px;
